@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gustavo Gomes 👋</h1>
+<h1 align="center">Olá, eu sou o Gustavo Gomes </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavogomesoliv/">
@@ -12,7 +12,7 @@
 
 -----
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**  
 💼 Background em **mercado financeiro, operações e estruturação de negócios**  
@@ -57,11 +57,6 @@
 -----
 
 ## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogomes-dv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogomes-dv&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogomes-dv&theme=tokyonight" alt="streak" />
