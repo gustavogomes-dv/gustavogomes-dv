@@ -78,7 +78,6 @@
 🔹 **[Fintech](https://github.com/gustavogomes-dv/Fintech)** — Projeto fintech proposto pela FIAP com foco em desenvolvimento de soluções financeiras  
 🔹 **[Challenge JBS](https://github.com/gustavogomes-dv/challenge-jbs-sprint-2---FIAP)** — Gamificação da SWIFT, desenvolvido em equipe  
 🔹 **[Games Java](https://github.com/gustavogomes-dv/games_java)** — Aplicação Java explorando JPA, JPQL e DAO com Oracle  
-🔹 **[Payroll Chatbot](https://github.com/gustavogomes-dv/payroll-chatbot)** — Chatbot para automação de processos de folha de pagamento
 
 -----
 
