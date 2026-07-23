@@ -62,17 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogomes-dv&theme=tokyonight" alt="streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavogomes-dv&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
------
-
-##  Projetos em destaque
-
-🔹 **[Fintech](https://github.com/gustavogomes-dv/Fintech)** — Projeto fintech proposto pela FIAP com foco em desenvolvimento de soluções financeiras  
-🔹 **[Challenge JBS](https://github.com/gustavogomes-dv/challenge-jbs-sprint-2---FIAP)** — Gamificação da SWIFT, desenvolvido em equipe  
-🔹 **[Games Java](https://github.com/gustavogomes-dv/games_java)** — Aplicação Java explorando JPA, JPQL e DAO com Oracle  
 
 -----
 
