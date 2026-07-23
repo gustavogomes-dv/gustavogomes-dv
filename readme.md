@@ -1,70 +1,46 @@
-<h1 align="center">Olá, eu sou o Gustavo Gomes </h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavogomesoliv/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gustavogomes-dv&label=Visitas%20no%20perfil&color=0e75b6&style=flat" alt="Visitas no perfil" />
-</p>
-
------
-
-##  Sobre mim
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**  
-💼 Background em **mercado financeiro, operações e estruturação de negócios**  
-🌱 Atualmente focado em **desenvolvimento Full-Stack** com Java, Kotlin e React  
-🎯 Em busca de oportunidades como **Desenvolvedor Júnior** ou **Estagiário em Tecnologia**  
-📍 São José da Barra - MG
-
-> Combino visão de negócio com desenvolvimento técnico para construir soluções escaláveis e orientadas a valor.
-
------
-
-##  Stack & Ferramentas
-
-#### Linguagens
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-#### Frontend
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-#### Backend & Banco de dados
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Cloud & Ferramentas
-
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
------
-
-##  Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogomes-dv&theme=tokyonight" alt="streak" />
-</div>
+# Gustavo Gomes
 
 
------
+Fundador do [Payroll](https://payrollia.com.br), SaaS de educação financeira via WhatsApp, em produção. Antes disso, mercado financeiro (XP e Safra) e Marinha do Brasil. Estudante de Análise e Desenvolvimento de Sistemas na FIAP, último ano.
 
-<p align="center">
-  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i>
-</p>
+## O que eu faço
+
+Passei anos do lado de quem vende e decide no mercado financeiro. Depois construí um produto financeiro do zero: backend, banco, pagamentos, compliance. Hoje meu foco é o próximo passo lógico dessa cadeia: analisar os dados que esses sistemas geram.
+
+Interesses atuais: auditoria analítica, detecção de fraude, estatística aplicada e SQL em escala. Estudo casos reais de dados públicos brasileiros, como fraude de ICMS e analytics em tribunais de contas.
+
+## Payroll
+
+O projeto que melhor me representa tecnicamente. Algumas decisões de arquitetura:
+
+```
+- Cálculos financeiros 100% determinísticos em código puro.
+  O LLM nunca faz matemática, apenas conversa.
+- Memória financeira em tabela dedicada, não em JSONB.
+  Direito ao esquecimento (LGPD) vira um DELETE cirúrgico.
+- Webhooks com validação HMAC-SHA256 e comparação timing-safe.
+- Rate limiting, bcrypt, lockout de força bruta, CORS restrito.
+- Stack: Node.js, PostgreSQL, Redis, WhatsApp Business API.
+```
+
+O código é proprietário, mas o produto está no ar e a arquitetura eu discuto com prazer.
+
+## Stack
+
+```
+dados        python, pandas, scikit-learn, jupyter, sql
+bancos       postgresql, oracle, redis
+backend      java, spring boot, node.js
+infra        docker, git, railway
+```
+
+## Repositórios
+
+| repo | descrição |
+|------|-----------|
+| [pizzas-ml](https://github.com/gustavogomes-dv/pizzas-ml) | Análise exploratória e modelagem preditiva em Python |
+| [esg-compliance-api](https://github.com/gustavogomes-dv/esg-compliance-api) | API REST de compliance ambiental. Spring Boot, JWT, Flyway, Oracle, Docker |
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/gustavogomesoliv) · [payrollia.com.br](https://payrollia.com.br)
