@@ -7,8 +7,6 @@ Fundador do [Payroll](https://payrollia.com.br), SaaS de educação financeira v
 
 Passei anos do lado de quem vende e decide no mercado financeiro. Depois construí um produto financeiro do zero: backend, banco, pagamentos, compliance. Hoje meu foco é o próximo passo lógico dessa cadeia: analisar os dados que esses sistemas geram.
 
-Interesses atuais: auditoria analítica, detecção de fraude, estatística aplicada e SQL em escala. Estudo casos reais de dados públicos brasileiros, como fraude de ICMS e analytics em tribunais de contas.
-
 ## Payroll
 
 O projeto que melhor me representa tecnicamente. Algumas decisões de arquitetura:
