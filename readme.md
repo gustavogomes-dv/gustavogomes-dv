@@ -13,7 +13,6 @@ Olá, me chamo Gustavo!
 ---
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando o **último período** (FIAP)
-- 💼 Atualmente **Junior Data Scientist** na **[Marca Engenharia](https://www.linkedin.com/company/marca-engenharia)**, atuando com auditoria interna e analytics (SQL, Python, Power BI)
 - 🚀 Fundador e desenvolvedor solo da **[Payrollia](https://payrollia.com.br)**, SaaS de educação financeira via WhatsApp
 - 📈 Experiência prévia no setor financeiro (redes **XP** e **Safra**)
 - ⚓ Ex-militar da **Marinha do Brasil**
