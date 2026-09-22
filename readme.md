@@ -12,9 +12,9 @@ Olá, me chamo Gustavo!
 
 ---
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando o **último período** (FIAP)
+- 🎓 Formando em **Análise e Desenvolvimento de Sistemas** e cursando o **último período** (FIAP)
 - 🚀 Fundador e desenvolvedor solo da **[Payrollia](https://payrollia.com.br)**, SaaS de educação financeira via WhatsApp
-- 📈 Experiência prévia no setor financeiro (redes **XP** e **Safra**)
+- 📈 Experiência prévia no setor financeiro (redes **XP Investimentos** e **Banco Safra**)
 - ⚓ Ex-militar da **Marinha do Brasil**
 
 <br>
@@ -29,8 +29,8 @@ Olá, me chamo Gustavo!
 
 <div align="center">
   <a href="https://github.com/gustavogomes-dv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogomes-dv&show_icons=true&theme=radical&hide_border=true&bg_color=14102A&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogomes-dv&layout=compact&theme=radical&hide_border=true&bg_color=14102A&cache_seconds=1800"/>
+   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavogomes-dv&theme=radical" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavogomes-dv&theme=radical" alt="Linguagens mais usadas" />
   </a>
 </div>
 
@@ -48,9 +48,9 @@ Olá, me chamo Gustavo!
 
 ### 📌 Projetos em destaque
 
-- 🐍 **[payroll.ia-showcase](https://github.com/gustavogomes-dv/payroll.ia-showcase)** — SaaS de educação financeira via WhatsApp, com IA (Claude), integração PIX e conformidade CVM/ANBIMA
-- 🏗️ **[auditoria-obras-anomalias](https://github.com/gustavogomes-dv/auditoria-obras-anomalias)** — Pipeline de detecção de anomalias em dados de obras públicas
-- 🔍 **[licita-forense](https://github.com/gustavogomes-dv/licita-forense)** — Detecção de anomalias em licitações usando Lei de Benford e análise de grafos
+-  **[payroll.ia-showcase](https://github.com/gustavogomes-dv/payroll.ia-showcase)** — SaaS de educação financeira via WhatsApp, com IA (Claude), integração PIX e conformidade CVM/ANBIMA
+-  **[auditoria-obras-anomalias](https://github.com/gustavogomes-dv/auditoria-obras-anomalias)** — Pipeline de detecção de anomalias em dados de obras públicas
+-  **[licita-forense](https://github.com/gustavogomes-dv/licita-forense)** — Detecção de anomalias em licitações usando Lei de Benford e análise de grafos
 
 <br>
 
