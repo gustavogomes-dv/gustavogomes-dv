@@ -39,7 +39,7 @@ Olá, me chamo Gustavo!
 
 <div align="center">
 
-![snake svg](https://raw.githubusercontent.com/gustavogomes-dv/gustavogomes-dv/output/github-contribution-grid-snake.svg)
+![snake svg](https://raw.githubusercontent.com/gustavogomes-dv/gustavogomes-dv/gh-pages/github-contribution-grid-snake.svg)
 
 </div>
 
