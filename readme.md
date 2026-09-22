@@ -1,36 +1,69 @@
-# Gustavo Gomes
+Olá, me chamo Gustavo!
+=========================================================================================================================================
 
-**Dados e engenharia aplicados a finanças e setor público.**
-Fundador do [Payroll](https://payrollia.com.br), SaaS de educação financeira via WhatsApp, em produção com usuários pagantes. Antes: mercado financeiro (XP e Safra) e Marinha do Brasil. Último ano de Análise e Desenvolvimento de Sistemas na FIAP.
+<div align="center">
 
-## O que eu faço
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavogomesoliv)
+<a href="https://www.github.com/gustavogomes-dv" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/gustavogomes-dv?logo=github&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLLOWERS">
+</a>
 
-Passei anos do lado de quem vende e decide no mercado financeiro. Depois construí um produto financeiro do zero — backend, banco, pagamentos, compliance — e hoje aplico esse mesmo rigor a dados: transformar sistemas e bases públicas em decisões defensáveis.
+</div>
 
-## Projetos em destaque
+---
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [auditoria-ml](https://github.com/gustavogomes-dv/auditoria-ml) | Detecção de fraude em licitações federais: Lei de Benford, grafos de conluio e Isolation Forest sobre dados da CGU | Python, pandas, scikit-learn, networkx |
-| [payroll.ia-showcase](https://github.com/gustavogomes-dv/payroll.ia-showcase) | Vitrine técnica do meu SaaS em produção: arquitetura, compliance CVM/LGPD e módulos reais | Node.js, PostgreSQL, Redis, Claude |
-| [esg-compliance-api](https://github.com/gustavogomes-dv/esg-compliance-api) | API REST de compliance ambiental com autenticação e migrations | Java, Spring Boot, JWT, Oracle, Docker |
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando o **último período** (FIAP)
+- 💼 Atualmente **Junior Data Scientist** na **[Marca Engenharia](https://www.linkedin.com/company/marca-engenharia)**, atuando com auditoria interna e analytics (SQL, Python, Power BI)
+- 🚀 Fundador e desenvolvedor solo da **[Payrollia](https://payrollia.com.br)**, SaaS de educação financeira via WhatsApp
+- 📈 Experiência prévia no setor financeiro (redes **XP** e **Safra**)
+- ⚓ Ex-militar da **Marinha do Brasil**
 
-## Payroll — decisões de arquitetura
+<br>
 
-- Cálculos financeiros 100% determinísticos em código puro. O LLM nunca faz matemática, apenas conversa.
-- Memória financeira em tabela dedicada. Direito ao esquecimento (LGPD) vira um DELETE cirúrgico com ON DELETE CASCADE.
-- Webhooks validados por HMAC-SHA256 com comparação timing-safe.
-- Rate limiting, bcrypt, lockout de força bruta, CORS restrito.
+<h1 align="center">Minhas Habilidades</h1>
 
-O código de produção é proprietário, mas o produto está no ar e a arquitetura eu discuto com prazer.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,css,html,java,kotlin,sql,cs,docker,firebase,gradel,nextjs,react,postgres,redis,mongodb,azure,git,github,githubactions,vscode,figma,md&theme=dark)](https://github.com/gustavogomes-dv)
 
-## Stack
+<br>
 
-**Dados** · Python, pandas, scikit-learn, networkx, Jupyter, SQL
-**Bancos** · PostgreSQL, Oracle, Redis
-**Backend** · Node.js, Java, Spring Boot
-**Infra** · Docker, Git, Railway
+<div align="center">
 
-## Contato
+<div align="center">
+  <a href="https://github.com/gustavogomes-dv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogomes-dv&show_icons=true&theme=radical&hide_border=true&bg_color=14102A&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogomes-dv&layout=compact&theme=radical&hide_border=true&bg_color=14102A&cache_seconds=1800"/>
+  </a>
+</div>
 
-[LinkedIn](SEU_LINK_LINKEDIN) · [payrollia.com.br](https://payrollia.com.br)
+<br>
+
+<div align="center">
+
+![snake svg](https://raw.githubusercontent.com/gustavogomes-dv/gustavogomes-dv/output/github-contribution-grid-snake.svg)
+
+</div>
+
+</div>
+
+<br>
+
+### 📌 Projetos em destaque
+
+- 🐍 **[payroll.ia-showcase](https://github.com/gustavogomes-dv/payroll.ia-showcase)** — SaaS de educação financeira via WhatsApp, com IA (Claude), integração PIX e conformidade CVM/ANBIMA
+- 🏗️ **[auditoria-obras-anomalias](https://github.com/gustavogomes-dv/auditoria-obras-anomalias)** — Pipeline de detecção de anomalias em dados de obras públicas
+- 🔍 **[licita-forense](https://github.com/gustavogomes-dv/licita-forense)** — Detecção de anomalias em licitações usando Lei de Benford e análise de grafos
+
+<br>
+
+Fico à disposição para trocar ideias sobre tecnologia, dados, projetos ou oportunidades 👋
+Você pode me encontrar por aqui:
+
+💼 LinkedIn: [linkedin.com/in/gustavogomesoliv](https://www.linkedin.com/in/gustavogomesoliv)
+
+🐙 GitHub: [github.com/gustavogomes-dv](https://github.com/gustavogomes-dv)
+
+Sinta-se à vontade para entrar em contato 🙂
+
+<br>
+
+---
