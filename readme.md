@@ -22,7 +22,7 @@ Olá, me chamo Gustavo!
 
 <h1 align="center">Minhas Habilidades</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,css,html,java,kotlin,sql,cs,docker,firebase,gradel,nextjs,react,postgres,redis,mongodb,azure,git,github,githubactions,vscode,figma,md&theme=dark)](https://github.com/gustavogomes-dv)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,css,html,java,kotlin,cs,docker,firebase,gradle,nextjs,react,postgres,redis,mongodb,azure,git,github,githubactions,vscode,figma,md&theme=dark)](https://github.com/gustavogomes-dv)
 
 <br>
 
