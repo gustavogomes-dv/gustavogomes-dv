@@ -14,7 +14,7 @@ Olá, me chamo Gustavo!
 
 - 🎓 Formando em **Análise e Desenvolvimento de Sistemas** e cursando o **último período** (FIAP)
 - 🚀 Fundador e desenvolvedor solo da **[Payroll Chatbot](https://payrollia.com.br)**, SaaS de educação financeira via WhatsApp
-- 📈 Experiência prévia no setor financeiro (redes **XP Investimentos** e **Banco Safra**)
+- 📈 Trabalhei no setor financeiro como assessor e SDR (redes **XP Investimentos** e **Banco Safra**)
 - ⚓ Ex-militar da **Marinha do Brasil**
 
 <br>
